@@ -1,0 +1,29 @@
+body {
+  font-family: "Source Sans Pro", sans-serif;
+}
+.highlighted{
+  /* z-index: 5; */
+  border-radius: 20px;
+  /* transform: scaleZ(5); */
+}
+/* #highlighted{
+  zoom: 1.1;
+} */
+#badg{
+    
+  position: absolute;
+  top: -12px;
+  right: 20px;
+}
+footer p{
+  font-size: x-small;
+  text-align: center;
+}
+.app{
+  display: flex;
+  justify-content: flex-end;
+}
+#toast{
+  background-color: rgba(153, 187, 187, 0.397);
+  margin-top: 2em;
+}
